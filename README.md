@@ -9,7 +9,8 @@ For more information check the [Wikipedia page](https://en.m.wikipedia.org/wiki/
 
 # How to use
 Clone the repo, and run `main.py`, easy as can be!
-Windows users can visit the [releases](https://github.com/Megalodonix/PomodoroTk/releases) page
+
+## Windows users can visit the [releases](https://github.com/Megalodonix/PomodoroTk/releases) page
 
 for using the Pomodoro method, however, it is generally done in these six steps:
 
