@@ -1,4 +1,6 @@
 dummycode
-?mypy*
+.mypy*
 __pycache__
+build
+dist
 

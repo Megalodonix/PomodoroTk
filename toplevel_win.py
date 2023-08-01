@@ -1,7 +1,8 @@
 import threading
 import pydub
 from pydub.playback import play
-import tkinter as tk 
+import tkinter as tk
+from tkinter import ttk
 
 
 def soundEffect():
@@ -13,7 +14,8 @@ class TimeUp():
     def __init__(self, root, text):
         self.timeupwin = tk.Toplevel(root)
         self.timeupwin.geometry("300x155")
-        self.time_up_label = tk.Label(self.timeupwin,
+        self.timeupwin.config(bg="#f5f6f7")
+        self.time_up_label = ttk.Label(self.timeupwin,
                                       text=(f"{str(text)}"),
                                       font=("", 10),
                                       justify="left",

@@ -22,11 +22,12 @@ for using the Pomodoro method, however, it is generally done in these six steps:
 6. After four pomodoros are done, take a long break (typically 20 to 30 minutes) instead of a short break. Once the long break is finished, return to step 2
 
 # Dependencies
-You need to have `python` and `tk` installed on your system. To do that, use your package manager to install both of them
+You need to have `python` and `tk` and `ttkthemes` installed on your system. To do that, use your package manager to install both of them
 
 ## Arch Linux
 ```sudo pacman -S python tk```
+```yay -S ttk-themes```
 
 # Modules
 To install the modules required by the app:
-```pip install pydub pillow```
+```pip install pydub pillow ttkthemes```

@@ -1,9 +1,1 @@
-Please pardon the inconvenience,
-the app is stillnot fully utilized
-and is a work in progress.
-The known issues are:
-
--The timer will keep running in the
-background even after closing the app.
-the timer must finish for
-the process to end.
+Ignore this file for now...

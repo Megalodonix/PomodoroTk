@@ -5,6 +5,6 @@ the entire app is built with pure Python.
 Made by: Wid "Megalodonix" Subaihavi
 Inspired by: pomofocus.io
 Made with: Love. 
-(And by using the Pomodoro technique ¯\_(ツ)_/¯)
+(Yes, this app was made while using Pomodoro focus.)
 
-Verison 1.0
+Verison 1.1
