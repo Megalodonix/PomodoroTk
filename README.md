@@ -25,8 +25,8 @@ for using the Pomodoro method, however, it is generally done in these six steps:
 You need to have `python` and `tk` and `ttkthemes` installed on your system. To do that, use your package manager to install both of them
 
 ## Arch Linux
-```sudo pacman -S python tk```
-```yay -S ttk-themes```
+```$ sudo pacman -S python tk```
+```$ yay -S ttk-themes``` (or any AUR package manager other than yay.)
 
 # Modules
 To install the modules required by the app:
